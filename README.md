@@ -66,6 +66,7 @@ Hiperparametre ayarlamaları için `GridSearchCV` yöntemi uygulandı:
 ## LİNKLER
 
 https://www.kaggle.com/datasets/beyzanurarslanta/heart-disease-uci
+---
 https://www.kaggle.com/code/beyzanurarslanta/makine-renmesi-ile-s-n-fland-rma-projesi
 
 
