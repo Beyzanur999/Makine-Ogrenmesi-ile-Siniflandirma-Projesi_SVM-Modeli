@@ -1,0 +1,1 @@
+# Makine-Ogrenmesi-ile-Siniflandirma-Projesi_SVM-Modeli
