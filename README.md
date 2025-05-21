@@ -15,7 +15,7 @@ Bu proje, Global AI Hub bünyesindeki **Makine Öğrenmesi** eğitimi kapsamınd
 
 ---
 
-## 📌 Proje Hakkında
+## Proje Hakkında
 
 Bu projede amaç, verilen veri seti üzerinde sınıflandırma yaparak **belirli bir hedef değişkeni** tahmin edebilecek bir makine öğrenmesi modeli oluşturmaktır. Bu kapsamda:
 
@@ -31,7 +31,7 @@ Bu projede amaç, verilen veri seti üzerinde sınıflandırma yaparak **belirli
 
 Projede kullanılan veri seti Kaggle üzerinden temin edilmiştir:
 
-🔗 [Kaggle Dataset Linki](https://www.kaggle.com/datasets/beyzanurarslanta/heart-disease-uci)
+[Kaggle Dataset Linki](https://www.kaggle.com/datasets/beyzanurarslanta/heart-disease-uci)
 
 Veri seti, iki sınıfa ayrılmış etiketlerden oluşmakta ve her örnek çeşitli sayısal özniteliklerle temsil edilmektedir. Bu nedenle ikili sınıflandırma (binary classification) problemine uygundur.
 
