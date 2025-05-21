@@ -43,7 +43,7 @@ Veri seti üzerinde aşağıdaki işlemler yapılmıştır:
 
 ---
 
-## ⚙️ Kullanılan Yöntemler ve Adımlar
+## Kullanılan Yöntemler ve Adımlar
 
 ### 1. Veri Analizi ve Görselleştirme
 
